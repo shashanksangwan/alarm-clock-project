@@ -1,4 +1,4 @@
-🪧 Demo :- https://github.com/shashanksangwan/alarm-clock
+🪧 Demo :- https://github.com/shashanksangwan/alarm-clock-project
 
 ---
 
